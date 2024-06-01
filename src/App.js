@@ -19,7 +19,7 @@ function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/aenia12/React.5.weather"
+            href="https://github.com/aenia12/React.6.project"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://dynamic-lokum-c1135e.netlify.app/"
+            href="https://rococo-conkies-0cd4b8.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
